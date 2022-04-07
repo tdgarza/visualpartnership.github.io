@@ -1,7 +1,7 @@
 baseURL = "https://tdgarza.github.io/visualpartnership.github.io/"
 languageCode = "en-us"
-title = ".:: Visual Partner-Ship ::."
-theme = "bootstrap"
+title = "Bitacora de viaje de Tomas Garza"
+theme = "hugo-winston-theme"
 
 [taxonomies]
   tag = "tags"
